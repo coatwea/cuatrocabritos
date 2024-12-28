@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:obsidian"
+        }
+    ],
+    "result": {
+        "item": "minecraft:lava_bucket",
+        "count": 1
+    },
+    "group": "SkyBlock: Advanced"
+}

@@ -1,0 +1,82 @@
+[01:05:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:05:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:05:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:05:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:05:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:05:53] [main/INFO]: Reloading ResourceManager: Default, skyblock
+[01:05:54] [Worker-Main-4/INFO]: Loaded 7 recipes
+[01:05:55] [Worker-Main-4/INFO]: Loaded 927 advancements
+[01:05:56] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:05:56] [Server thread/INFO]: Loading properties
+[01:05:56] [Server thread/INFO]: Default game type: SURVIVAL
+[01:05:56] [Server thread/INFO]: Generating keypair
+[01:05:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:05:57] [Server thread/INFO]: Using epoll channel type
+[01:05:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:05:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:05:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:05:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:05:57] [Server thread/INFO]: Preparing level "world"
+[01:05:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:05:58] [Server thread/INFO]: Preparing spawn area: 0%
+[01:05:58] [Server thread/INFO]: Preparing spawn area: 0%
+[01:05:58] [Server thread/INFO]: Time elapsed: 1170 ms
+[01:05:58] [Server thread/INFO]: Done (1.281s)! For help, type "help"
+[01:06:19] [Server thread/INFO]: coatwea[/127.236.72.57:53527] logged in with entity id 16 at (49.09616951248602, 63.0, 45.815998752719665)
+[01:06:19] [Server thread/INFO]: coatwea joined the game
+[01:09:23] [Server thread/INFO]: [coatwea: Set the weather to clear]
+[01:10:29] [Server thread/INFO]: errep1234[/127.231.117.119:32839] logged in with entity id 95 at (48.5, 62.0, 55.5)
+[01:10:29] [Server thread/INFO]: errep1234 joined the game
+[01:10:54] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-15.145161272148261,0.0
+[01:10:58] [Server thread/INFO]: errep1234 fell out of the world
+[01:10:59] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-21.79993150829253,0.0
+[01:11:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=50, y=66, z=49}
+[01:11:14] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-19.015720158623893,0.0
+[01:11:16] [Server thread/INFO]: errep1234 fell out of the world
+[01:11:16] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-21.6551731438104,0.0
+[01:11:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=54}
+[01:11:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=54}
+[01:11:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=47, y=63, z=53}
+[01:11:27] [Server thread/INFO]: errep1234 fell out of the world
+[01:11:28] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-21.866539167982978,0.0
+[01:11:44] [Server thread/INFO]: [coatwea: Set own game mode to Survival Mode]
+[01:13:19] [Server thread/INFO]: coatwea fell out of the world
+[01:14:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=45, y=62, z=50}
+[01:14:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=47, y=62, z=55}
+[01:14:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=44, y=62, z=52}
+[01:14:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=50, y=62, z=52}
+[01:14:51] [Server thread/WARN]: errep1234 moved too quickly! 0.033132426758712086,-13.128134886654905,-0.048334148267692
+[01:14:53] [Server thread/WARN]: errep1234 moved too quickly! 0.16648395648496717,-10.552241243705609,-0.23945136520629262
+[01:14:55] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-11.065764912039818,0.0
+[01:14:57] [Server thread/INFO]: errep1234 fell out of the world
+[01:14:58] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-22.917926766659377,0.0
+[01:15:07] [Server thread/INFO]: [coatwea: Set the weather to clear]
+[01:15:07] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-18.08016809268466,0.0
+[01:15:09] [Server thread/WARN]: errep1234 moved too quickly! 0.0,-19.738529800806873,0.0
+[01:15:10] [Server thread/INFO]: errep1234 fell out of the world
+[01:15:24] [Server thread/WARN]: coatwea moved too quickly! -0.3702967878838095,-10.544157833446185,0.2821239574486043
+[01:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:30] [Server thread/WARN]: coatwea moved too quickly! 0.0,-10.728126108483131,0.0
+[01:15:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=54}
+[01:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:32] [Server thread/WARN]: coatwea moved too quickly! 0.0,-12.166441577773291,0.0
+[01:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:33] [Server thread/WARN]: coatwea moved too quickly! 0.0,-11.537436446437335,0.0
+[01:15:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=52}
+[01:15:37] [Server thread/WARN]: coatwea moved too quickly! 0.0,-12.459692335404918,0.0
+[01:15:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=54}
+[01:15:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=62, z=53}
+[01:15:40] [Server thread/WARN]: coatwea moved too quickly! 0.0,-11.798174230684268,0.0
+[01:15:40] [Server thread/INFO]: coatwea fell out of the world
+[01:15:41] [Server thread/WARN]: coatwea moved too quickly! 0.0,-23.414707438376567,0.0
+[01:15:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=62, z=53}
+[01:15:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=53}
+[01:15:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=46, y=63, z=54}
+[01:15:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=45, y=62, z=54}
+[01:15:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=45, y=63, z=53}
+[01:15:48] [Server thread/WARN]: errep1234 moved too quickly! -0.42398582619957637,-11.05618193693752,1.148127446989406
